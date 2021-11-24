@@ -1,0 +1,5 @@
+<!DOCTYPE html>\n\
+<html>\n\
+<head></head>\n\
+<body>test</body>\n\
+</html>";

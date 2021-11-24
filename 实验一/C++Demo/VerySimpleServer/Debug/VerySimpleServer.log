@@ -1,0 +1,8 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  Server.cpp
+C:\Users\LENOVO\OneDrive\Documents\Tencent Files\985091524\FileRecv\计算机网络实验\实验一\C++Demo\VerySimpleServer\Server.cpp(15,1): warning C4005: “ERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wingdi.h(118): message : 参见“ERROR”的前一个定义
+C:\Users\LENOVO\OneDrive\Documents\Tencent Files\985091524\FileRecv\计算机网络实验\实验一\C++Demo\VerySimpleServer\Server.cpp(236,10): warning C4244: “初始化”: 从“std::streamoff”转换到“int”，可能丢失数据
+C:\Users\LENOVO\OneDrive\Documents\Tencent Files\985091524\FileRecv\计算机网络实验\实验一\C++Demo\VerySimpleServer\Server.cpp(301,101): warning C4101: “sessionSocket”: 未引用的局部变量
+C:\Users\LENOVO\OneDrive\Documents\Tencent Files\985091524\FileRecv\计算机网络实验\实验一\C++Demo\VerySimpleServer\Server.cpp(185): warning C4715: “Server::socketsetup”: 不是所有的控件路径都返回值
+  VerySimpleServer.vcxproj -> C:\Users\LENOVO\OneDrive\Documents\Tencent Files\985091524\FileRecv\计算机网络实验\实验一\C++Demo\VerySimpleServer\Debug\VerySimpleServer.exe
